@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "rollNo": "CS101",
+    "address": "Delhi, India",
+    "salary": 25000
+  },
+  {
+    "id": 2,
+    "name": "Vivaan Patel",
+    "rollNo": "CS102",
+    "address": "Mumbai, India",
+    "salary": 27000
+  },
+  {
+    "id": 3,
+    "name": "Aditya Verma",
+    "rollNo": "CS103",
+    "address": "Kolkata, India",
+    "salary": 23000
+  },
+  {
+    "id": 4,
+    "name": "Arjun Reddy",
+    "rollNo": "CS104",
+    "address": "Hyderabad, India",
+    "salary": 26000
+  },
+  {
+    "id": 5,
+    "name": "Sai Kumar",
+    "rollNo": "CS105",
+    "address": "Chennai, India",
+    "salary": 24000
+  },
+  {
+    "id": 6,
+    "name": "Krishna Nair",
+    "rollNo": "CS106",
+    "address": "Kerala, India",
+    "salary": 28000
+  },
+  {
+    "id": 7,
+    "name": "Rohan Das",
+    "rollNo": "CS107",
+    "address": "Assam, India",
+    "salary": 22000
+  },
+  {
+    "id": 8,
+    "name": "Rahul Singh",
+    "rollNo": "CS108",
+    "address": "Lucknow, India",
+    "salary": 30000
+  },
+  {
+    "id": 9,
+    "name": "Karan Mehta",
+    "rollNo": "CS109",
+    "address": "Pune, India",
+    "salary": 26000
+  },
+  {
+    "id": 10,
+    "name": "Yash Gupta",
+    "rollNo": "CS110",
+    "address": "Jaipur, India",
+    "salary": 21000
+  },
+  {
+    "id": 11,
+    "name": "Ananya Roy",
+    "rollNo": "CS111",
+    "address": "Bhopal, India",
+    "salary": 29000
+  },
+  {
+    "id": 12,
+    "name": "Ishita Sen",
+    "rollNo": "CS112",
+    "address": "Ranchi, India",
+    "salary": 25000
+  },
+  {
+    "id": 13,
+    "name": "Karan nayek",
+    "rollNo": "CS109",
+    "address": "Pune, India",
+    "salary": 26000
+  },
+  {
+    "id": 14,
+    "name": "Sneha Iyer",
+    "rollNo": "CS114",
+    "address": "Coimbatore, India",
+    "salary": 24000
+  },
+  {
+    "id": 16,
+    "name": "Manish Yadav",
+    "rollNo": "CS116",
+    "address": "Patna, India",
+    "salary": 23000
+  },
+  {
+    "id": 17,
+    "name": "Siddharth Jain",
+    "rollNo": "CS117",
+    "address": "Surat, India",
+    "salary": 28000
+  }
+]
